@@ -1,0 +1,3 @@
+C:/Users/yetti/Documents/Arduino/stropMQTT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/yetti/Documents/Arduino/stropMQTT/cmake-build-debug/CMakeFiles/stropMQTT.dir
+C:/Users/yetti/Documents/Arduino/stropMQTT/cmake-build-debug/CMakeFiles/edit_cache.dir

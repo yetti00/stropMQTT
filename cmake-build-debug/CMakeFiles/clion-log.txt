@@ -1,0 +1,6 @@
+"C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\yetti\Documents\Arduino\stropMQTT
+-- Configuring done
+CMake Error: CMake can not determine linker language for target: stropMQTT
+CMake Error: Cannot determine link language for target "stropMQTT".
+-- Generating done
+-- Build files have been written to: C:/Users/yetti/Documents/Arduino/stropMQTT/cmake-build-debug
